@@ -9,8 +9,7 @@
 		"vibe-d": "~>0.7.25-rc.1"
     },
     "subPackages": [
-        "./dpaste-be-worker/",
-		"./dpaste-be-container/"
+        "./worker/",
     ],
     "versions": ["VibeDefaultMain"]
 }
